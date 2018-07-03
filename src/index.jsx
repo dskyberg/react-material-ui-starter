@@ -6,7 +6,7 @@ import App from "./App";
 import { createBrowserHistory } from "history";
 import { Router, Route, Switch } from "react-router";
 
-import indexRoutes from "./routes/index.jsx";
+import indexRoutes from "./routes.jsx";
 
 var hist = createBrowserHistory();
 
